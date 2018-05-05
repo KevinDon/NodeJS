@@ -5,3 +5,6 @@ NodeJS学习<br/>
 socket.io - 后端信息传输<br/>
 
 运行界面 <br>
+<div>
+   <img src="./images/runTimeIinterface.png">
+</div>
