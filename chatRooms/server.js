@@ -10,6 +10,7 @@ var mime = require('mime'); //附加的mime模块有根据扩展名得出MIME类
 var cahce = {}; //cache是用来缓存文件内容的对象
 
 /**
+ *
  *请求的文件不存在时发送404错误
  * @param response 响应对象
  */
